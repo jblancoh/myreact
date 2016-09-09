@@ -1,0 +1,36 @@
+{
+  "name": "MaKondoSW-React-Boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@cyberpolin",
+  "license": "ISC",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "autobind-decorator": "*",
+    "babel": "5.8.23",
+    "babelify": "6.4.0",
+    "browser-sync": "*",
+    "browserify": "*",
+    "connect-history-api-fallback": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-notify": "*",
+    "gulp-rename": "*",
+    "gulp-stylus": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-router": "*",
+    "vinyl-buffer": "*",
+    "vinyl-source-stream": "*",
+    "watchify": "*"
+  }
+}

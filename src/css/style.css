@@ -1,0 +1,9 @@
+.app-cmp{
+	border: 1px solid red;
+}
+.form-cmp{
+	border: 1px solid green;	
+}
+.list-cmp{
+	border: 1px solid blue;
+}

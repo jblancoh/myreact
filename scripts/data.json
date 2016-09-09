@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Carlos",
+      "lastName": "Gonzalez",
+      "img": "http://lorempixel.com/output/people-q-c-200-200-4.jpg",
+			"desc": "django, css, html, js, React"},
+		{
+			"name": "Jonathan",
+			"lastName": "Blanco",
+			"img": "http://lorempixel.com/output/people-q-c-200-200-4.jpg",
+			"desc": "django, css, html, js, React"
+		},
+		{
+			"name": "O",
+			"lastName": "Regardiz",
+			"img": "http://lorempixel.com/output/people-q-c-200-200-4.jpg",
+			"desc": "django, css, html, js, React"
+		}
+]

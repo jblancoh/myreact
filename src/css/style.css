@@ -1,9 +1,31 @@
 .app-cmp{
-	border: 1px solid red;
+	background: #FF160B;
 }
 .form-cmp{
-	border: 1px solid green;	
+	padding-top: 2.5em;
+	margin: 2em;
+}
+.form-cmp input[text]{
+
 }
 .list-cmp{
-	border: 1px solid blue;
+	border: 1px solid #1E30FF;
+	border-radius: 5px;
+	background: #10C9E8;
+}
+.list-cmp li{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.list-cmp li>img{
+	width: 50px;
+	height: 50px;
+	border-radius: 5px;
+	margin: 15px;
+}
+
+.list-cmp li>img:hover{
+	width: 55px;
+	height: 55px;
 }
